@@ -1,5 +1,3 @@
 bbb
-<<<<<<< HEAD
 BBB
 AAA
->>>>>>> 2412392cfa292eb208f88133cf2a40f4bb0accc4
